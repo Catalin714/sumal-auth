@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "test@email.com",
+      "password": "1234",
+      "companyId": "3615",
+      "subscription": "active",
+      "expiresAt": "2026-01-01"
+    }
+  ]
+}
